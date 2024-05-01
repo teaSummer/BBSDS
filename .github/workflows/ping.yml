@@ -3,7 +3,7 @@ run-name: 全部查活
 
 on:
   schedule:
-    - cron: "55 ,0/6 * * *"
+    - cron: "55 */6 * * *"
 jobs:
   ping:
     runs-on: ubuntu-latest
