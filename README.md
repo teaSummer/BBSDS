@@ -9,7 +9,9 @@
 
 停止维护于 2024/05/10 21:30 (UTC+8)，请前往 [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK)。
 
-如果想查看其工作流，请点击 [此处](https://github.com/LYOfficial/BBSPK/actions/workflows/ping.yml)。
+如果想查看相同工作流，请点击 [此处](https://github.com/LYOfficial/BBSPK/actions/workflows/ping.yml)。
+
+接下来，不会在该仓库进行更新，转移至 BBSPK (含分叉)仓库完成。
 
 ## 依赖/引用的项目
 
