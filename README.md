@@ -5,6 +5,11 @@
 
 利用 GitHub Actions 每隔一段时间进行检测。
 
+---
+
+停止维护于 2024/05/10 21:30，请前往 [LYOfficial/BBSPK](https://github.com/LYOfficial/BBSPK)。
+
+如果想查看 Action，请点击[此处](https://github.com/LYOfficial/BBSPK/actions/workflows/ping.yml)。
 
 ## 依赖/引用的项目
 
